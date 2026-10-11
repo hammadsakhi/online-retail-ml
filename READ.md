@@ -1,6 +1,9 @@
 # Online Retail Customer Analytics & Machine Learning
 
 An end-to-end Machine Learning project that analyzes online retail customer behavior, predicts repeat purchases, and segments customers based on their purchasing patterns.
+## Dashboard Preview
+
+![Online Retail ML Dashboard](screenshots/dashboard.png)
 
 ## Project Overview
 
